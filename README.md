@@ -1,3 +1,3 @@
 # Canny Edge Detection Alorithim in Java
 
-<img src='Fullscreen.gif' style='width:100%' />
+<img src='Animation.gif' style='width:100%' />
