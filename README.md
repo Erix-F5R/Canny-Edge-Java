@@ -1,4 +1,4 @@
-# Canny Edge Detection Alorithim in Java
+# Canny Edge Detection Algorithm in Java
 
 <img src='Animation.gif' style='width:100%' />
 
